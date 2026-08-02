@@ -31,6 +31,7 @@ langchain-huggingface==0.1.2
 langchain-pinecone==0.2.3
 langchain-text-splitters==0.3.8
 langsmith>=0.3.45,<0.4
+langchain-openai==0.3.16
 
 pinecone==5.4.2
 
