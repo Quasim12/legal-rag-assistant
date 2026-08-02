@@ -24,8 +24,8 @@ httpx-sse==0.4.0
 
 Jinja2==3.1.5
 
-langchain==0.3.21
-langchain-community==0.3.21
+langchain==0.3.23
+langchain-community==0.3.23
 langchain-groq==0.2.4
 langchain-huggingface==0.1.2
 langchain-pinecone==0.2.3
