@@ -29,7 +29,7 @@ langchain-community==0.3.23
 langchain-groq==0.2.4
 langchain-huggingface==0.1.2
 langchain-pinecone==0.2.3
-langchain-text-splitters==0.3.7
+langchain-text-splitters==0.3.8
 langsmith==0.3.11
 
 pinecone==5.4.2
